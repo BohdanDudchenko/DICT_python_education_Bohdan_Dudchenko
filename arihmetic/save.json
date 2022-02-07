@@ -1,0 +1,20 @@
+{
+    "GOSHA": {
+        "count_good": 0,
+        "lvl_easy": 2,
+        "lvl_hard": 2,
+        "lvl_logic": 4
+    },
+    "HAHA": {
+        "count_good": 0,
+        "lvl_easy": 1,
+        "lvl_hard": 0,
+        "lvl_logic": 1
+    },
+    "ivan": {
+        "count_good": 0,
+        "lvl_easy": 0,
+        "lvl_hard": 0,
+        "lvl_logic": 0
+    }
+}
