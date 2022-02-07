@@ -1,1 +1,2 @@
 # DICT_python_education_Bohdan_Dudchenko
+Проскура Галина
